@@ -18,5 +18,8 @@ Download workbook and enable macros.
 - create and compute multiplication table of any given dimensions
 - three ways to generate the table: VBA Functions, VBA Arrays, VBA What-If Analysis
 
+## Gallery
+Pictures to be added later.
+
 ## Licence
 MagicTable Application is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You don't have to include author's name (however it would be appreciated). The application probably won't hurt anyone, however author is not responsible for negative results of its use, implying that sole responsibility lies on user.
