@@ -1,5 +1,5 @@
 # Multiplication Table Simulator
-![Multiplication Table Simulator Logo](/img/logo.png)
+![Multiplication Table Simulator Logo](img/logo.png)
 
 ## File data
 First published: 6th of December, 2019\
