@@ -1,4 +1,5 @@
 # QR Code Generator 
+!(QR Code Generator logo)[]
 
 ## File data
 First published: 6th of December, 2019\
@@ -18,6 +19,9 @@ Download workbook and enable macros.
 - Four colors available - white, red, green, blue
 - logs utility
 - saving file
+
+## Gallery
+Pictures to be added.
 
 ## License
 QR Code Generator is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You don't have to include author's name (however it would be appreciated). The application probably won't hurt anyone, however author is not responsible for negative results of its use, implying that sole responsibility lies on user.
