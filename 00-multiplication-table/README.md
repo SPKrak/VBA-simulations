@@ -1,5 +1,5 @@
 # Multiplication Table Simulator
-![Multiplication Table Simulator Logo](img/logo.png)
+![Multiplication Table Simulator Logo](https://github.com/SPKrak/VBA-simulations/blob/master/00-multiplication-table/img/logo.PNG)
 
 ## File data
 First published: 6th of December, 2019\
