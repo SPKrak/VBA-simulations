@@ -1,5 +1,5 @@
 # QR Code Generator 
-!(QR Code Generator logo)[]
+![QR Code Generator logo](https://github.com/SPKrak/VBA-simulations/blob/master/01-QR-code-generator/img/logo.PNG)
 
 ## File data
 First published: 6th of December, 2019\
