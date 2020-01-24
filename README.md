@@ -3,6 +3,7 @@
 So far, following programs were created:
 - QR Code Generator
 - Multiplication Table Simulator
+- Financial Report Utility Improvement Tool (aka FRUIT)
 
 Programs that are currently developed:
-- Financial Report Utility Improvement Tool (aka FRUIT)
+- NailIt! PowerPoint Customizing Utility
