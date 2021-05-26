@@ -9,7 +9,7 @@ Contact: dev@spkrak.pro\
 Other notes: Take care and have a nice day!
 
 ## Description
-The purpose of this application is to demonstrate various ways in which multiplication of two numbers - one in row and one in column - can be performed using VBA. Results are stored at intersection of rows and columns and therefore forming a multiplication table. For each method, following parameters are given: computation time, insertion time and formatting time. In case you have any questions, please contact me at hello@spkrak.pro.
+The purpose of this application is to demonstrate various ways in which multiplication of two numbers - one in row and one in column - can be performed using VBA. Results are stored at intersection of rows and columns and therefore forming a multiplication table. For each method, following parameters are given: computation time, insertion time and formatting time. In case you have any questions, please contact me at dev@spkrak.pro.
 
 ## Usage
 Download workbook and enable macros.
