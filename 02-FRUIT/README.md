@@ -5,7 +5,7 @@
 First published: 22th of December, 2019\
 Current version: 0.1\
 Author: Szymon Krakowiak\
-Contact: hello@spkrak.pro\
+Contact: dev@spkrak.pro\
 Other notes: Take care and have a nice day!
 
 ## Description
