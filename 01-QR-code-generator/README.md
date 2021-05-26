@@ -5,11 +5,11 @@
 First published: 6th of December, 2019\
 Current version: 0.1\
 Author: Szymon Krakowiak\
-Contact: hello@spkrak.pro\
+Contact: dev@spkrak.pro\
 Other notes: Take care and have a nice day!
 
 ## Description
-The purpose of this application is to generate random QR Code in three different color schemes. Furthermore, the QR code can be saved on device. In case you have any questions, please contact me at hello@spkrak.pro.
+The purpose of this application is to generate random QR Code in three different color schemes. Furthermore, the QR code can be saved on device. In case you have any questions, please contact me at dev@spkrak.pro.
 
 ## Usage
 Download workbook and enable macros.
