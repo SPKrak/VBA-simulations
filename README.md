@@ -5,5 +5,5 @@ So far, following programs were created:
 - Multiplication Table Simulator
 - Financial Report Utility Improvement Tool (aka FRUIT)
 
-Programs that are currently developed:
+Programs that are currently being developed:
 - NailIt! PowerPoint Customizing Utility
